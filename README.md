@@ -192,6 +192,12 @@ Good luck! 🚀
 
 Cliquez sur le bouton **"Fork"** en haut à droite du repository GitHub.
 
+> [!IMPORTANT]
+> **Fork privé obligatoire** : Vous devez rendre votre fork privé pour protéger votre travail.
+> Ajoutez ensuite **admin[at]void[dot]fr** comme collaborateur avec les droits de lecture (Settings > Collaborators).
+> 
+> ⚠️ Un fork public entraînera l'annulation de votre candidature.
+
 ### 4. Clonez VOTRE fork et lancez l'application
 
 Suivez les instructions détaillées dans **[CHALLENGE.md](./CHALLENGE.md)** section "Instructions de Travail"
